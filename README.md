@@ -24,7 +24,7 @@ The Vision: Empower People to Collaborate Better
 
 How people communicate their thoughts and how people organize to deliver the biggest assets of human civilization. 
 
-See more at [Manifesto](https://github.com/domijin/LibertyEarth/blob/master/manifesto.md)
+See more at the [Manifesto](https://github.com/domijin/LibertyEarth/blob/master/manifesto.md).
 
 ## What Do We Do
 
@@ -38,7 +38,7 @@ Building an enterprise is just one of the best ways to accumulate the resources 
 I'm currently the founder of [MindWave X](https://mindwave.business), and support [changeTOC](http://changetoc.org). But when it comes down to product-market fit, it can be flexible. It doesn’t matter to start with a hardware company, a SaaS product, or even a science fiction book picturing the future of work, life, and society. 
 
 
-When we collectively figure out the MVP, engineering work will still be essential but we will have the motivation to collaborate and execute. When we have the financial freedom and resources, diversity on what to empower people to collaborate on will and shall emerge to make the world better. 
+When we collectively figure out the MVP, engineering work will still be essential but we will have the motivation to collaborate and execute. When we have the financial freedom and resources, diversity on what to empower people to collaborate on will and shall emerge to make the world better, like the mentioned [challenges](#Challenges-We-Face). 
 
 
 ## How Do We Do
