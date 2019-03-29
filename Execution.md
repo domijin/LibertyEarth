@@ -37,7 +37,7 @@ A toy model to crowd-form a collaborative team before tools are developped.
         - meeting minutes
         - blog posts
         - development
-        - managemen decisions
+        - management decisions
     - peer management
         - moderation
             - meeting
