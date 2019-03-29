@@ -1,6 +1,6 @@
-# The Manifesto of Liberty Earth 
+# The Manifesto
 
-The Vision: Empower People to Collaborate Better
+The Vision: Technically Empower People to Collaborate Better
 
 
 ## Principle to Collaborate
