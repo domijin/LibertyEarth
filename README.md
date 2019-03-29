@@ -1,6 +1,6 @@
 # Initiative towards Collaborative Society 
 
-The Vision: Empower People to Collaborate Better
+The Vision: Technically Empower People to Collaborate Better
 
 ### Challenges We Face
 
