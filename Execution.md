@@ -1,0 +1,47 @@
+## Initial Design of Execution
+
+- General Interest
+    - join the mail list
+    - event notice
+    - updates
+- Participation
+    - slack
+        - announcement, time by time
+            - meeting
+            - agenda
+        - IM
+            - discussion suppliment
+            - small group meeting progress tracking
+        - resource directing
+            - contents
+            - contacts
+        - regular work log
+            - proposal brainstorming
+            - co-development log
+    - hierarchical google hangout meeting
+        - general meeting
+            - announcement, briefing/reporting
+            - instant feedback/voting
+        - small group discussion, 5 per group
+        - consolidating meetings
+    - workflow
+        - general meeting, agenda
+        - small group discussion, 5 per group
+        - slack consolidation per topic
+        - consolidating meeting, representative, additional feedbacks
+        - general meeting, report/vote
+- Contribution
+    - GitHub curation/consolidation
+        - meeting minutes
+        - blog posts
+        - development
+        - managemen decisions
+    - peer management
+        - moderation
+            - meeting
+            - contents
+            - dev tickets
+        - evaluations
+            - involvement
+            - contribution
+            - credibility
