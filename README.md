@@ -4,7 +4,7 @@ The Vision: Empower People to Collaborate Better
 
 ### Challenges We Face
 
-![](images/challenge.png)
+![](images/challenges.png)
 
 ## Why this Vision
 
