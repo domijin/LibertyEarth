@@ -2,9 +2,24 @@
 
 The Vision: Empower People to Collaborate Better
 
-### Challenges
+### Challenges We Face
 
-![](https://www.dropbox.com/s/nxs0ep2x02e3w6x/Screenshot%202019-03-13%2015.19.23.png?dl=1)
+- Environmental
+	- Climate Change
+	- White Pollution
+- Ecological
+	- Biodiversity
+	- Epidemics
+- Economical
+	- Segregation
+	- Institutional Challenge
+- Sociological
+	- Coordination Failure
+	- Extremism 
+- Humanistic
+	- Over-consumed Attention
+	- Lack of faith
+
 
 ## Principle to Collaborate
 - Autonomy
