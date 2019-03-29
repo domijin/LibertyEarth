@@ -2,11 +2,15 @@
 
 The Vision: Empower People to Collaborate Better
 
+### Challenges
+
+[Challenges](https://www.dropbox.com/s/nxs0ep2x02e3w6x/Screenshot%202019-03-13%2015.19.23.png?dl=!)
+
 ## Principle to Collaborate
 - Autonomy
     - Social Contracts
     - Code of Conduct
-        - family, community
+        - we are a family, community, crowd-owners of a social company
 - Open Source, no NCA, NDA
     - Open Meeting
     - Open Decision
@@ -18,6 +22,7 @@ The Vision: Empower People to Collaborate Better
 
 
 ### [A Toy Plan to Collaborate](https://github.com/domijin/LibertyEarth/blob/master/Execution.md)
+
 
 ## Collaborative Society
 
