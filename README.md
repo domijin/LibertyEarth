@@ -24,7 +24,7 @@ The Vision: Empower People to Collaborate Better
 
 How people communicate their thoughts and how people organize to deliver the biggest assets of human civilization. 
 
-See more at the [Manifesto](https://github.com/domijin/LibertyEarth/blob/master/manifesto.md).
+See more at the [Manifesto](manifesto.md).
 
 ## What Do We Do
 
@@ -43,14 +43,17 @@ When we collectively figure out the MVP, engineering work will still be essentia
 
 ## How Do We Do
 
-### [A Toy Plan to Collaborate](https://github.com/domijin/LibertyEarth/blob/master/Execution.md)
+### [A Toy Plan to Collaborate](Execution.md)
 
 Remember, remember, the principles to be a member. 
 
 - Autonomy
     - Social Contracts
-    - Code of Conduct
-        - we are a family, community, crowd-owners of a social company
+    - Code of Conduct/Principles
+        - We are a family, community, crowd-owners of a social company
+        - Be bold, radical solution!
+        - Be modest, `I know that I know nothing`.
+        - Be honest and embrace changes, open source and open management.
 - Open Source, no NCA, NDA
     - Open Meeting
     - Open Decision
@@ -59,6 +62,8 @@ Remember, remember, the principles to be a member.
     - Peer Review
     - Jury Decision
     - Liquid Democracy
+
+`One can make the shape, but it is all that can fill the gap. - Domi`
 
 
 ## One More Thing
@@ -69,5 +74,5 @@ Remember, remember, the principles to be a member.
 	- Ideation with Q&A: happening at [issues](https://github.com/domijin/LibertyEarth/issues)
 	- [ ] A better walk-through of the vision, wording, language, etc.
 	- [ ] Disclose the road-map towards collective society.
-	- [ ] Test and iterate the [execution plan](https://github.com/domijin/LibertyEarth/blob/master/Execution.md).
+	- [ ] Test and iterate the [execution plan](Execution.md).
 
