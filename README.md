@@ -4,21 +4,7 @@ The Vision: Empower People to Collaborate Better
 
 ### Challenges We Face
 
-- Environmental
-	- Climate Change
-	- White Pollution
-- Ecological
-	- Biodiversity
-	- Epidemics
-- Economical
-	- Segregation
-	- Institutional Challenge
-- Sociological
-	- Coordination Failure
-	- Extremism 
-- Humanistic
-	- Over-consumed Attention
-	- Lack of faith
+![](images/challenge.png)
 
 ## Why this Vision
 
@@ -75,4 +61,5 @@ Remember, remember, the principles to be a member.
 	- [ ] A better walk-through of the vision, wording, language, etc.
 	- [ ] Disclose the road-map towards collective society.
 	- [ ] Test and iterate the [execution plan](Execution.md).
+	- Better Name of the Project and a Website.
 
