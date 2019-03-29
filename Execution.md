@@ -1,5 +1,7 @@
 ## Initial Design of Execution
 
+A toy model to crowd-form a collaborative team before tools are developped. 
+
 - General Interest
     - join the mail list
     - event notice
