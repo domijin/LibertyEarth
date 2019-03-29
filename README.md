@@ -2,7 +2,7 @@
 
 The Vision: Empower People to Collaborate Better
 
-## Principle
+## Principle to Collaborate
 - Autonomy
     - Social Contracts
     - Code of Conduct
@@ -16,6 +16,8 @@ The Vision: Empower People to Collaborate Better
     - Jury Decision
     - Liquid Democracy
 
+
+## [A Toy Plan to Collaborate](https://github.com/domijin/LibertyEarth/blob/master/Execution.md)
 
 ## Collaborative Society
 
