@@ -1,3 +1,22 @@
+# The White Paper of Liberty Earth 
+
+The Vision: Empower People to Collaborate Better
+
+## Principle
+- Autonomy
+    - Social Contracts
+    - Code of Conduct
+        - family, community
+- Open Source, no NCA, NDA
+    - Open Meeting
+    - Open Decision
+    - Open Development
+- Open Management
+    - Peer Review
+    - Jury Decision
+    - Liquid Democracy
+
+
 ## Collaborative Society
 
 The largest achievement and challenge for humans is how to collaborate better. It could be broken down into two tasks, 1. how to communicate better (effective & efficient); 2. how to organize better (optimized team & motivating). 
