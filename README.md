@@ -1,6 +1,6 @@
 # Initiative towards Collaborative Society 
 
-The Vision: Technically Empower People to Collaborate Better
+__The Vision: Technically Empower People to Collaborate Better__
 
 ### Challenges We Face
 
@@ -39,6 +39,8 @@ We will collaborate on building tools and methodologies for ourselves, other com
 
 Remember, remember, the principles to be a member. 
 
+__Principles__
+
 - Autonomy
     - Social Contracts
     - Code of Conduct/Principles
@@ -58,6 +60,22 @@ Remember, remember, the principles to be a member.
 
 `One can make the shape, but it is all together that can fill the gap.`
 
+## What To Expect
+
+In the big picture, guided by the Principle:
+
+- A beautiful futuer to work towards.
+- A meaningful purpose to live on.
+- A community with trusted like-minded.
+- A stage where to liberate your talents.
+
+In the short term, detailed by [Execution](Execution.md#A-spice-about-the-economic-scence):
+
+- A piece of mind with universal basic income.
+- A share of equity matched to added value.
+
+Nothing is perfect but in Principles we unite. [QA thread](https://github.com/domijin/LibertyEarth/issues/3#issue-427262167).
+
 
 ## One More Thing
 
@@ -65,8 +83,8 @@ Remember, remember, the principles to be a member.
 
 - [Current Open Projects](https://github.com/domijin/LibertyEarth/projects)
 	- Ideation with Q&A: happening at [issues](https://github.com/domijin/LibertyEarth/issues)
-        - [=] Privacy challenge
-        - [=] Trust challenge
+        - Privacy challenge
+        - Trust challenge
 	- [ ] A better walk-through of the vision, wording, language, etc.
 	- [ ] Disclose the road-map towards collective society.
 	- [ ] Test and iterate the [execution plan](Execution.md).
