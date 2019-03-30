@@ -8,10 +8,11 @@ The Vision: Technically Empower People to Collaborate Better
 - Autonomy
     - Social Contracts
     - Code of Conduct/Principles
-        - We are a family, community, crowd-owners of a social company
-        - Be bold, radical solution!
+        - We are a family, community, crowd-owners of a social company.
+    - Trust first, but keep track of what happens.
+        - Be bold, look for radical solution!
         - Be modest, `I know that I know nothing`.
-        - Be honest and embrace changes, open source and open management.
+        - Be honest and embrace changes, open source and open management based on credibility.
 - Open Source, no NCA, NDA
     - Open Meeting
     - Open Decision
@@ -21,7 +22,8 @@ The Vision: Technically Empower People to Collaborate Better
     - Jury Decision
     - Liquid Democracy
 
-One can make the shape, but it is all that can fill the gap. 
+`One can make the shape, but it is all together that can fill the gap. - Domi`
+
 
 
 ## Collaborative Society
@@ -34,7 +36,7 @@ When we talk about social identity and job market, resumes and social media alwa
 
 As until now, I feel somewhat comfortable and satisfied to fully push forward with this vision to empower people to collaborate better. The first step of collaboration is always to communicate (openly) and embrace changes.
 
-If this somehow resonates with you, please step up to learn about [how to get invovled](Execution.md)
+If this somehow resonates with you, please step up to learn about [how to get invovled](Execution.md).
 
 ## 协作社会
 
