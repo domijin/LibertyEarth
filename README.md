@@ -2,9 +2,7 @@
 
 __The Vision: Technically Empower People to Collaborate Better__
 
-### Challenges We Face
-
-![](images/challenges.png)
+See more at the [Manifesto](manifesto.md).
 
 ## Why this Vision
 
@@ -14,7 +12,11 @@ Technologies like AGI and blockchain are the byproducts/tools. Organizations lik
 
 It is how everyone is valued and matched, to take ownership to develop, under aligned interest and agreed principles, that matters more. 
 
-See more at the [Manifesto](manifesto.md).
+
+### Challenges We Face
+
+![](images/challenges.png)
+
 
 ## What Do We Do
 
@@ -121,8 +123,8 @@ My peek to one of the [loosely-pictured future](http://future.domij.info).
 	- Ideation with Q&A: happening at [issues](https://github.com/domijin/LibertyEarth/issues)
         - Privacy challenge
         - Trust challenge
-	- [ ] A better walk-through of the vision, wording, language, etc.
-	- [ ] Disclose the road-map towards collective society.
-	- [ ] Test and iterate the [execution plan](Execution.md).
-	- [ ] Better Name of the Project and a Website.
+	- A better walk-through of the vision, wording, language, etc.
+	- Disclose the road-map towards collective society.
+	- Test and iterate the [execution plan](Execution.md).
+	- Better Name of the Project and a Website.
 
