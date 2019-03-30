@@ -1,6 +1,7 @@
 ## Initial Design of Execution
 
-A toy model to crowd-form a collaborative team before tools are developped. 
+A toy model to crowd-form a collaborative team before tools and methodologies are developped. 
+
 
 - General Interest
     - join the [mail list](https://forms.gle/pnVim3XRBUrbn54FA) for event notice and updates
