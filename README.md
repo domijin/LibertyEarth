@@ -69,12 +69,12 @@ In the big picture, guided by the Principle:
 
 - A beautiful future to work towards.
 - A meaningful purpose to live on.
-- A community with trusted like-minded.
-- A stage where to liberate your talents.
+- A community with trusted like-minds.
+- A stage to liberate your talents.
 
-In the short term, detailed by [Execution](Execution.md#A-spice-about-the-economic-scence):
+In the short term, detailed in [Execution Plan](Execution.md#A-spice-about-the-economic-scence):
 
-- A piece of mind with universal basic income.
+- Peace of mind with universal basic income.
 - A share of equity matched to added value.
 
 Nothing is perfect but in Principles we unite. [QA thread](https://github.com/domijin/LibertyEarth/issues/3#issue-427262167).
