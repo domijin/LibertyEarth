@@ -22,7 +22,7 @@ The Vision: Technically Empower People to Collaborate Better
     - Jury Decision
     - Liquid Democracy
 
-`One can make the shape, but it is all together that can fill the gap. - Domi`
+`One can make the shape, but it is all together that can fill the gap.`
 
 
 
