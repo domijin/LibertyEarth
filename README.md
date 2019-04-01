@@ -4,6 +4,13 @@ __The Vision: Technically Empower People to Collaborate Better__
 
 See more at the [Manifesto](manifesto.md).
 
+> It is very preliminary and abstract at the moment. All questions or edits to clarify are welcome!
+> 
+> To make the full picture easier to follow and digest, the following work to reduce the information barrier is scheduled.  
+> 1. Idealistic level: restructure as Situation (Challenges), Root Cause, Solution.  
+> 2. Practical level: detail the thoughts about Market (progressive goals), Product (technology roadmap), Execution Plan (sustainable business approach).  
+
+
 ## Why this Vision
 
 IMHO, it is how people communicate their thoughts and how people are organized to deliver the biggest assets of human civilization. 
