@@ -17,6 +17,15 @@ It is how everyone is valued and matched, to take ownership to develop, under al
 
 ![](images/challenges.png)
 
+### The Root Cause
+
+_It's not a solid conclusion._
+
+The free market is supposed to optimize the resources to continuously improve productivity but it's falling short. Because there are information barriers in nature (most geographic) and then institutional (capitalism) for one to take advantage (which causes economic segregation), while people in the market are not all rational or capable to be rational. 
+
+Internet and communication technology has helped reducing information barrier, which promotes global trading and the globalization. But our biologically limit of adaptability kicks in. We have limited attention and processing ability to catch up with the exploding information. We are anxious. We can increase the information density to drive people to learn faster and longer but there will be a ceiling. People will age and not everyone has the chance to be properly educated. Not to mention that education is challenged by the capital due to the attention economy and the anxiety of financial insecurity. 
+
+
 
 ## What Do We Do
 
@@ -75,7 +84,7 @@ In the big picture, guided by the Principle:
 In the short term, detailed in [Execution Plan](Execution.md#A-spice-about-the-economic-scence):
 
 - Peace of mind with universal basic income.
-- A share of equity matched to added value.
+- A share of equity matched to your added value.
 
 Nothing is perfect but in Principles we unite. [QA thread](https://github.com/domijin/LibertyEarth/issues/3#issue-427262167).
 
