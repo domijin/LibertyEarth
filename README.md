@@ -50,6 +50,39 @@ It sounds like a hopeless optimistic ideal. But it's possible and I'm making it 
 
 We will collaborate on building tools and methodologies for ourselves, other companies, corporations, governments to communicate efficiently and effectively. 
 
+![]()
+
+### How To Participate?
+
+Anyone should be a part of the collaborative society, which aims to provide help to liberate everyone, with equal access to the information and basic resources, until catching up by adaptive learning, to become capable, to extend the edge of the collective knowledge base. 
+
+All supports are recognized!
+
+1. star this project
+2. join the [mail list](https://forms.gle/pnVim3XRBUrbn54FA)
+3. ask challenging questions at [issues](https://github.com/domijin/LibertyEarth/issues)
+4. pioneer in slack channel, ask for an [invitation](mailto:social@domij.info)
+    1. talk to any community members for detail
+    2. ask challenging questions
+    3. help congregate into WiKi to iterate the plan
+5. initiate the community principles in slack following the [execution plan](Execution.md) 
+6. brainstorm the future of society (how people collaborate), future of education (how people adapt), future of manufacturing (how people prosper), future of future (where are we going), as well as who we are.
+7. sign up as future development support
+    1. knowledge graph
+    2. embedded system developer: biometrics, acoustics, battery
+    3. education theory (adaptive learning)
+    4. mathematician, economist, sociologist, anthropologist, philosopher, PhDs, Post-Docs, Professors in other domains
+    5. chip designers: quantum computing, photonic integrated circuits, biological computing
+8. join as first actors
+    1. _disciples_: visionaries in all backgrounds
+    2. product managers
+    3. speech recognition exports
+    4. data engineers: cloud infrastructure
+    5. data analytics/business intelligence
+    6. iOS/Android developers
+    7. decentralized system developers
+    8. business developments
+
 
 ## How Do We Do
 
