@@ -1,37 +1,110 @@
 # Initiative towards Collaborative Society 
 
-__The Vision: Technically Empower People to Collaborate Better__
+### __The Vision: Technically Empower People to Collaborate Better__
 
-See more at the [Manifesto](manifesto.md).
-
-> It is very preliminary and abstract at the moment. All questions or edits to clarify are welcome!
-> 
-> To make the full picture easier to follow and digest, the following work to reduce the information barrier is scheduled.  
-> 1. Idealistic level: restructure as Situation (Challenges), Root Cause, Solution.  
-> 2. Practical level: detail the thoughts about Market (progressive goals), Product (technology roadmap), Execution Plan (sustainable business approach).  
+> It is very preliminary at the moment. I'm constantly detailing out and advocating for help. All questions or edits are welcome!
 
 
-## Why this Vision
+TOC
 
-IMHO, it is how people communicate their thoughts and how people are organized to deliver the biggest assets of human civilization. 
+- Motivation: [Why This Vision](#why-this-vision)
+- Idealistic Level
+    - [Situation: Challenges We Face](#challenges-we-face)
+    - [Reason: The Root Cause](#the-root-cause)
+    - [Solution: What Do We Do](#what-do-we-do)
+- Practical level: _To Be Edited_
+    - Market (progressive goals)
+    - Product (technology road map)
+    - Execution Plan (sustainable business approach)
+        - [Organization](#execution.md)
+- [Manifesto](manifesto.md)
 
-Technologies like AGI and blockchain are the byproducts/tools. Organizations like company and government are the forms/means. 
+
+## Why This Vision
+
+__Domi's Story__
+
+In my humble opinion, it is `how people communicate their thoughts and how people are organized to deliver` the biggest assets of human civilization. 
+
+Technologies like `artificial general intelligence` and `blockchain` are the byproducts (tools). Organizations like `corporations` and `governments` are the forms (means). 
 
 It is how everyone is valued and matched, to take ownership to develop, under aligned interest and agreed principles, that matters more. 
 
+Read more: [Initiatives on Sociological Practice](http://dongming.uta.cloud/initiatives-on-sociological-practice.html)
+
+
+__What's Your Story To Keep You Up In The Morning?__
+
+
+## Idealistic Level
 
 ### Challenges We Face
 
 ![](images/challenges.png)
 
+__What's The Challenge Keeps You Up In The Night?__
+
+
 ### The Root Cause
 
-_It's not a solid conclusion._
+__Domi's Thoughts__
 
-The free market is supposed to optimize the resources to continuously improve productivity but it's falling short. Because there are information barriers in nature (most geographic) and then institutional (capitalism) for one to take advantage (which causes economic segregation), while people in the market are not all rational or capable to be rational. 
+Fundamental Trend: Larger educated populations are more frequently generating denser information through communication. 
 
-Internet and communication technology has helped reducing information barrier, which promotes global trading and the globalization. But our biologically limit of adaptability kicks in. We have limited attention and processing ability to catch up with the exploding information. We are anxious. We can increase the information density to drive people to learn faster and longer but there will be a ceiling. People will age and not everyone has the chance to be properly educated. Not to mention that education is challenged by the capital due to the attention economy and the anxiety of financial insecurity. 
+- more information: larger networks with bigger population connected;
+- faster generation: better connectivity with devices having more efficient human-computer interface;
+- higher density: more intense competition drive deeper domain specified skills and experience through higher education. 
 
+
+The Dilemma: Our adaptability (learning ability) are biologically limited, as
+
+- limited attention (information I/O);
+- limited computing（information processing).
+
+
+Direct Consequences: Information Overload that results in divergent cognitive abilities:
+
+- bias from selection effect over the process of learning; 
+- redundant information rephrased from different sources that occupied limited attention;
+- conflicting information that causes recursive cognitive processing cost.
+
+
+In together with the `institutional barriers` detailed below, causes 
+
+- personal `anxiety` of `career lock-in` due to solidified skill and experience with new tools and methods flushing in;
+- `sociological segregation` due to difficulties to trace the source of divergence:
+    - `fragmentation of Internet` that intensifies alienation;
+    - expediting `economic segregation` that raises concerns;
+    - democracy failure that discouraged voters with abusive attention occupation of marketing campaign and cognitive cost to identify fake news (bad faith);
+    - collaboration difficulty to resolve global challenges without __effective communication__ with __comprehensive information__ and __constructive organization__ practical in larger scale. 
+
+
+I believe `diversity` is `liberal` and `collaborative`, not discriminative or alienating. 
+
+
+__Cause of `Institutional Barriers`__
+
+
+The [free market](https://en.wikipedia.org/wiki/Free_market) is supposed to optimize the supply and demand without intervention. But information asymmetry naturally exists, which inspired capitalism to take advantage to build `institutional barriers`. Such institutional barriers include, but not limited to military (politics, policies, ideologies), economics (capitals, market power, information), technology (patents, IPs, manufacturing techniques). 
+
+The economic and sociological segregations are then rationalized with [Darwinism](https://en.wikipedia.org/wiki/Darwinism) for the favor of politicians, capitalists, institutions that also fosters religionists, nationalists, racists, sexists, etc.
+
+Any minority faces [inequality bargaining power](https://en.wikipedia.org/wiki/Inequality_of_bargaining_power) due to the information asymmetry caused by `institutional barriers`.
+
+
+
+My abstraction of `Industrial Revolution` & `Renaissance`:
+
+1. Printing: Enlightenment, less rational barrier due to geographic isolation.
+2. Mechanization, steam power: Industrial Revolution 1.0, more productivity with less labor dependency.
+3. Publishing: Romanticism, less educational barrier due to sociological status.
+4. Mass production, electricity: Industrial Revolution 2.0, more productivity with less gender, age, physical status dependency.
+5. Transportation, telegram: Darwinian, less information barrier due to transportation efficiency.
+6. Computer, automation: Industrial Revolution 3.0, more productivity with less economic status dependency. 
+7. Internet, communication technology: Marketism (Capitalism/Socialism with market adaption), less information barrier due to social network limit.  
+8. Artificial general intelligence, adaptive learning, general purpose robotics: Industrial Revolution 4.0, more productivity with less skill, knowledge dependency.
+9. Smart social contract, social identity & credit system: Collaborative society, less opportunity barrier due to sociological status.
+10. [To be imagined...](#what-to-expect)
 
 
 ## What Do We Do
@@ -45,7 +118,7 @@ Building an enterprise is one of the best ways to accumulate resources to empowe
 
 ### First Step
 
-It sounds like a hopeless optimistic ideal. But it's possible and I'm making it feasible. Smarter minds like you can join force with [my roadmap](#how-do-we-do), or propose a better path.
+It sounds like a hopeless optimistic ideal. But it's possible and I'm making it feasible. Smarter minds like you can join force with [my road map](#how-do-we-do), or propose a better path.
 
 
 We will collaborate on building tools and methodologies for ourselves, other companies, corporations, governments to communicate efficiently and effectively. 
@@ -130,7 +203,6 @@ Nothing is perfect but in Principles we unite. [QA thread](https://github.com/do
 
 
 ### What's the future I expect?
-
 
 - What's the Future of Manufacturing?
     - Can it be `on-demand`? Will there be less material cost and inventory?
