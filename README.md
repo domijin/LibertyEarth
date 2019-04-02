@@ -24,7 +24,7 @@ TOC
 
 __Domi's Story__
 
-In my humble opinion, it is `how people communicate their thoughts and how people are organized to deliver` the biggest assets of human civilization. 
+In my humble opinion, it is `how people communicate their thoughts and how people are organized to deliver` the biggest asset of human civilization. 
 
 Technologies like `artificial general intelligence` and `blockchain` are the byproducts (tools). Organizations like `corporations` and `governments` are the forms (means). 
 
@@ -131,7 +131,7 @@ Anyone should be a part of the collaborative society, which aims to provide help
 
 All supports are recognized!
 
-1. star this project
+1. `star` this project as pledge to support
 2. join the [mail list](https://forms.gle/pnVim3XRBUrbn54FA)
 3. ask challenging questions at [issues](https://github.com/domijin/LibertyEarth/issues)
 4. pioneer in slack channel, ask for an [invitation](mailto:social@domij.info)
