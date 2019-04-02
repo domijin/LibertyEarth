@@ -50,7 +50,7 @@ It sounds like a hopeless optimistic ideal. But it's possible and I'm making it 
 
 We will collaborate on building tools and methodologies for ourselves, other companies, corporations, governments to communicate efficiently and effectively. 
 
-![]()
+![](images/roadmap.png)
 
 ### How To Participate?
 
