@@ -120,17 +120,20 @@ __Domi's Plan__
 
 To break the `institutional barrier` mentioned above, the radical solution will be improve the biological limit of adaptability. But biological changes don't and won't catch up with the timescale of societal evolution any more, due to the fundamental difference of information propagation speed. 
 
-Thus the only possibility I see is giving everyone the access to `Augmented Decision AI` to augment one's decision making ability, which involves retrieving information from the collective  knowledge base of human civilization and providing decision suggestions with reasonings, through wearable `Human-computer Interface`, [draft of the R&D plan](images/R&D.png).  
+Thus the only possibility I see is giving everyone the access to `Augmented Decision AI` to augment one's decision making ability in a process of `Adaptive Learning`, which involves retrieving information from the collective knowledge base of human civilization and providing decision suggestions with reasonings, through wearable `Human-computer Interface` based on the personal knowledge base, [draft of the R&D plan](images/R&D.png). At the same time, the society needs to be organized with trust and __principles__ to balance `liberty` between individuals and communities. 
 
 
 ![](images/roadmap.png)
 
 
-Building an enterprise is one of the best ways to accumulate resources to empower people to be visionaries. As a community member with ownership (universal basic income + equity), we can focus on what's important, to build a corporation as a government (society), to best liberate everyone's productivity, to eventually create abundance for better tomorrow.
+Building an enterprise is one of the best ways to accumulate resources to empower people to be visionaries. It is also the only way to demonstrate the power of collaborative society when the current form of corporations and governments are reaching the ceiling of efficiency. As a community member with ownership (universal basic income + equity), individuals will be best motivated. With principles to let everyone keeps up and gets involved in decision based on the proved ability. We can focus on what's important, to build a corporation as a government (society), to best liberate everyone's productivity, to eventually create abundance for better tomorrow.
 
 - Who: everyone who wants to be part.
 - How: collaborate as a community, a corporation, a society.
 - What for: liberate productivity to create abundance. 
+
+
+Revisit the [Vision](#why-this-vision) and be a part in finding the path towards future with us.
 
 
 ### First Step
