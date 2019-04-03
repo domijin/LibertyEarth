@@ -30,7 +30,7 @@ Technologies like `artificial general intelligence` and `blockchain` are the byp
 
 It is how everyone is valued and matched, to take ownership to develop, under aligned interest and agreed principles, that matters more. 
 
-Read more: [Initiatives on Sociological Practice](http://dongming.uta.cloud/initiatives-on-sociological-practice.html)
+More about Why: [Initiatives on Sociological Practice](http://dongming.uta.cloud/initiatives-on-sociological-practice.html)
 
 
 __What's Your Story To Keep You Up In The Morning?__
@@ -109,6 +109,23 @@ My abstraction of `Industrial Revolution` & `Renaissance`:
 
 ## What Do We Do
 
+
+__Domi's Plan__
+
+> This part is still under reconstruction: 1. bottom-up way to demonstrate how it can be done; 2. top-down way to demonstrate why I think so. Both are illuminated in the mind note map. 
+
+> Why? My motivation is covered [earlier](#why-this-vision). I also realize that a collaborative society is worth living in that no matter who and how it's been built. And one of the key principle is be [open enough to embrace changes](https://github.com/domijin/LibertyEarth/issues/3). AMA there because at one point, histories are being made regardless. 
+
+
+
+To break the `institutional barrier` mentioned above, the radical solution will be improve the biological limit of adaptability. But biological changes don't and won't catch up with the timescale of societal evolution any more, due to the fundamental difference of information propagation speed. 
+
+Thus the only possibility I see is giving everyone the access to `Augmented Decision AI` to augment one's decision making ability, which involves retrieving information from the collective  knowledge base of human civilization and providing decision suggestions with reasonings, through wearable `Human-computer Interface`, [draft of the R&D plan](images/R&D.png).  
+
+
+![](images/roadmap.png)
+
+
 Building an enterprise is one of the best ways to accumulate resources to empower people to be visionaries. As a community member with ownership (universal basic income + equity), we can focus on what's important, to build a corporation as a government (society), to best liberate everyone's productivity, to eventually create abundance for better tomorrow.
 
 - Who: everyone who wants to be part.
@@ -123,7 +140,6 @@ It sounds like a hopeless optimistic ideal. But it's possible and I'm making it 
 
 We will collaborate on building tools and methodologies for ourselves, other companies, corporations, governments to communicate efficiently and effectively. 
 
-![](images/roadmap.png)
 
 ### How To Participate?
 
