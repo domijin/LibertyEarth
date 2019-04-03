@@ -153,7 +153,7 @@ All supports are recognized!
 1. `star` this project as pledge to support
 2. join the [mail list](https://forms.gle/pnVim3XRBUrbn54FA)
 3. ask challenging questions at [issues](https://github.com/domijin/LibertyEarth/issues)
-4. pioneer in slack channel, ask for an [invitation](mailto:social@domij.info)
+4. pioneer in slack channel, ask for an [invitation](mailto:social@domij.info), form a Think Tank
     1. talk to any community members for detail
     2. ask challenging questions
     3. help congregate into WiKi to iterate the plan
@@ -182,7 +182,7 @@ All supports are recognized!
 
 Remember, remember, the principles to be a member. 
 
-__Principles__
+A brief view of [__Principles in Construction__](#Principles.md)
 
 - Autonomy
     - Social Contracts
@@ -264,7 +264,12 @@ My peek to one of the [loosely-pictured future](http://future.domij.info).
         - Privacy challenge
         - Trust challenge
 	- A better walk-through of the vision, wording, language, etc.
-	- Disclose the road-map towards collective society.
+	- ~~Disclose the road-map towards collective society.~~
 	- Test and iterate the [execution plan](Execution.md).
 	- Better Name of the Project and a Website.
+    - Structure the GitHub to be more operational on collaboration.
+        - Directory for Stories
+        - Index Resources and ongoing Projects
+        - Build WiKi
+        - A Website
 
