@@ -46,10 +46,10 @@ My Two Cents
 
 1. Effective Altruism: [submitted a question](https://forum.effectivealtruism.org/posts/FTRZTiSZMCzr59o96/what-are-the-principles-guideline-moral-spirit-social)
 
-2. [Canonical Debate Lab](https://github.com/canonical-debate-lab/paper#Principles): how to abstract it to be adaptive?
+2. [Canonical Debate Lab Principles](https://github.com/canonical-debate-lab/paper#Principles): how to abstract it to be adaptive?
     1. how to make it brief to the point?
     2. how to make it self-explainable with expandable deeper reasoning?
-    3. how to make it a trust-first and learn as practice?
+    3. how to make it a trust-first and learn as practice process?
     4. how to make it traceable to evaluate the value alignment?
 
 
