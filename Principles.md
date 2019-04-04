@@ -44,7 +44,12 @@ My Two Cents
 
 ### Call For Help
 
-1. Effective Altruism: [submitted a question](https://forum.effectivealtruism.org/posts/FTRZTiSZMCzr59o96/what-are-the-principles-guideline-moral-spirit-social)
+1. [Effective Altruism Principles](https://docs.google.com/document/d/1tvw5HsxNvAMNyITOy78bN7Jmfw7-XDNjhSAXd5jDMJg/edit#heading=h.x29zl4zf974z)
+    1. Commitment to Others
+    2. Scientific Mindset
+    3. Openness
+    4. Integrity
+    5. Collaborative Spirit 
 
 2. [Canonical Debate Lab Principles](https://github.com/canonical-debate-lab/paper#Principles): how to abstract it to be adaptive?
     1. how to make it brief to the point?
