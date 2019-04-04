@@ -91,7 +91,27 @@ The economic and sociological segregations are then rationalized with [Darwinism
 
 Any minority faces [inequality bargaining power](https://en.wikipedia.org/wiki/Inequality_of_bargaining_power) due to the information asymmetry caused by `institutional barriers`.
 
+To fill the gap of cognitive abilty and information asymmetry caused by such `institutional barriers`, we need to re-confirm the [root cause](#the-root-cause) and find [radical solutions](#what-do-we-do). 
 
+## What Do We Do
+
+
+__Domi's Plan__
+
+> This part is still under reconstruction: 1. bottom-up way to demonstrate how it can be done; 2. top-down way to demonstrate why I think so. Both are illuminated in the mind note map. 
+
+> Why? My motivation is covered [earlier](#why-this-vision). I also realize that a collaborative society is worth living in that no matter who and how it's been built. And one of the key principle is be [open enough to embrace changes](https://github.com/domijin/LibertyEarth/issues/3). AMA there because at one point, histories are being made regardless. 
+
+
+To break the `institutional barrier` mentioned above, the radical solution will be improve the biological limit of adaptability. But biological changes don't and won't catch up with the timescale of societal evolution any more, due to the fundamental difference of information propagation speed. 
+
+Thus the only possibility I see is giving everyone the access to `Augmented Decision AI` to augment one's decision making ability in a process of `Adaptive Learning`, which involves retrieving information from the collective knowledge base of human civilization and providing decision suggestions with reasonings, through wearable `Human-computer Interface` based on the personal knowledge base, [draft of the R&D plan](images/R&D.png). At the same time, the society needs to be organized with trust and __principles__ to balance `liberty` between individuals and communities. 
+
+
+![](images/roadmap.png)
+
+
+Before diving into the detail, let's step back and think about the _cosmology_ of human history. 
 
 My abstraction of `Industrial Revolution` & `Renaissance`:
 
@@ -107,26 +127,7 @@ My abstraction of `Industrial Revolution` & `Renaissance`:
 10. [To be imagined...](#what-to-expect)
 
 
-## What Do We Do
-
-
-__Domi's Plan__
-
-> This part is still under reconstruction: 1. bottom-up way to demonstrate how it can be done; 2. top-down way to demonstrate why I think so. Both are illuminated in the mind note map. 
-
-> Why? My motivation is covered [earlier](#why-this-vision). I also realize that a collaborative society is worth living in that no matter who and how it's been built. And one of the key principle is be [open enough to embrace changes](https://github.com/domijin/LibertyEarth/issues/3). AMA there because at one point, histories are being made regardless. 
-
-
-
-To break the `institutional barrier` mentioned above, the radical solution will be improve the biological limit of adaptability. But biological changes don't and won't catch up with the timescale of societal evolution any more, due to the fundamental difference of information propagation speed. 
-
-Thus the only possibility I see is giving everyone the access to `Augmented Decision AI` to augment one's decision making ability in a process of `Adaptive Learning`, which involves retrieving information from the collective knowledge base of human civilization and providing decision suggestions with reasonings, through wearable `Human-computer Interface` based on the personal knowledge base, [draft of the R&D plan](images/R&D.png). At the same time, the society needs to be organized with trust and __principles__ to balance `liberty` between individuals and communities. 
-
-
-![](images/roadmap.png)
-
-
-Building an enterprise is one of the best ways to accumulate resources to empower people to be visionaries. It is also the only way to demonstrate the power of collaborative society when the current form of corporations and governments are reaching the ceiling of efficiency. As a community member with ownership (universal basic income + equity), individuals will be best motivated. With principles to let everyone keeps up and gets involved in decision based on the proved ability. We can focus on what's important, to build a corporation as a government (society), to best liberate everyone's productivity, to eventually create abundance for better tomorrow.
+With that in mind, building an enterprise is one of the best ways to accumulate resources to empower people to be visionaries. It is also the only way to demonstrate the power of collaborative society when the current form of corporations and governments are reaching the ceiling of efficiency. As a community member with ownership (universal basic income + equity), individuals will be best motivated. With principles to let everyone keeps up and gets involved in decision based on the proved ability. We can focus on what's important, to build a corporation as a government (society), to best liberate everyone's productivity, to eventually create abundance for better tomorrow.
 
 - Who: everyone who wants to be part.
 - How: collaborate as a community, a corporation, a society.
