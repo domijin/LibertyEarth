@@ -2,29 +2,7 @@
 
 The Vision: Technically Empower People to Collaborate Better
 
-
-## Principle to Collaborate
-
-- Autonomy
-    - Social Contracts
-    - Code of Conduct/Principles
-        - We are a family, community, crowd-owners of a social company.
-    - Trust first, but keep track of what happens.
-        - Be bold, look for radical solution!
-        - Be modest, `I know that I know nothing`.
-        - Be honest and embrace changes, open source and open management based on credibility.
-- Open Source, no NCA, NDA
-    - Open Meeting
-    - Open Decision
-    - Open Development
-- Open Management
-    - Peer Review
-    - Jury Decision
-    - Liquid Democracy
-
-`One can make the shape, but it is all together that can fill the gap.`
-
-
+In [principles](principles.md) we align!
 
 ## Collaborative Society
 
