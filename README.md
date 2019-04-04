@@ -206,7 +206,19 @@ A brief view of [__Principles in Construction__](#Principles.md)
 `One can make the shape, but it is all together that can fill the gap.`
 
 
+### Popular Science Approach
+
+> Preliminary
+
+Adaptive Education
+
+- Ideology: [The plot](#sci-fi.md) to build Sci-Fi stories
+- Cognitive ability: [42](42.us.org), case study about gamification on effective learning.
+
+
 ### Business Approach
+
+> Preliminary
 
 The project is to build SaaS service to automate workflow from meeting, a voice based Salesforce system. 
 
