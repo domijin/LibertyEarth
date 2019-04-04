@@ -8,16 +8,17 @@
 TOC
 
 - Motivation: [Why This Vision](#why-this-vision)
-- Idealistic Level
+- Idealistic Level: cracking the egg
     - [Situation: Challenges We Face](#challenges-we-face)
     - [Reason: The Root Cause](#the-root-cause)
     - [Solution: What Do We Do](#what-do-we-do)
-- Practical level: _To Be Edited_
-    - Market (progressive goals)
-    - Product (technology road map)
-    - Execution Plan (sustainable business approach)
-        - [Organization](#execution.md)
-- [Manifesto](manifesto.md)
+- Practical level: making the pie _To Be Edited_
+    - [Market (progressive goals)](#first-step)
+    - Product (technology road map), [tech R&D](images/R&D.png)
+    - [Execution Plan: sustainable business approach](#business-appraoch)
+- [Manifesto](manifesto.md): Brief messange of the vision.
+- [Principles Guideline](principles.md)
+- [Toy Model of Organization](#execution.md)
 
 
 ## Why This Vision
@@ -203,6 +204,19 @@ A brief view of [__Principles in Construction__](#Principles.md)
     - Liquid Democracy
 
 `One can make the shape, but it is all together that can fill the gap.`
+
+
+### Business Approach
+
+The project is to build SaaS service to automate workflow from meeting, a voice based Salesforce system. 
+
+The data will be accumulated to develop workforce system like LinkedIn to better evaluate talents for hiring and management. 
+
+Privacy or business security is definitely a challenge but it could be taken care of with open sourcing, bet agreement, shares sharing, etc. The core idea is to be collaborative that using technology to empower people to communicate more efficient and effective. With the data generated, we can build enterprise knowledge base as well as personal knowledge base to model the proportional contribution and collective decision path, to power the development of AGI level automation to create manufacturing abundance for UBI. 
+
+At the same time, the proportional contribution could be the distribution incentive to motivate people to learn more from the enterprise knowledge base through practice in collective decision making. 
+
+By solving the communication scaling challenge and organization scaling challenge, we may surpass humans biological limit of adaptability for a collaborative society based on effective altruism. 
 
 
 ## What To Expect
