@@ -15,8 +15,10 @@ TOC
 - Practical level: making the pie _To Be Edited_
     - [Market (progressive goals)](#first-step)
     - Product (technology road map), [tech R&D](images/R&D.png)
-    - [Execution Plan: sustainable business approach](#business-appraoch)
-- [Manifesto](manifesto.md): Brief messange of the vision.
+    - Execution Plan: sustainability and feasibility
+        - [education approach](#education-approach) 
+        - [business approach](#business-approach)
+- [Manifesto](manifesto.md): Brief message of the vision.
 - [Principles Guideline](principles.md)
 - [Toy Model of Organization](#execution.md)
 
@@ -206,13 +208,13 @@ A brief view of [__Principles in Construction__](#Principles.md)
 `One can make the shape, but it is all together that can fill the gap.`
 
 
-### Popular Science Approach
+### Education Approach
 
 > Preliminary
 
 Adaptive Education
 
-- Ideology: [The plot](#sci-fi.md) to build Sci-Fi stories
+- Ideology with Popular Science: [The plot](#sci-fi.md) to build Sci-Fi stories
 - Cognitive ability: [42](42.us.org), case study about gamification on effective learning.
 
 
