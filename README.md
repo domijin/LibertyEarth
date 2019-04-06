@@ -152,6 +152,13 @@ We will collaborate on building tools and methodologies for ourselves, other com
 
 Anyone should be a part of the collaborative society, which aims to provide help to liberate everyone, with equal access to the information and basic resources, until catching up by adaptive learning, to become capable, to extend the edge of the collective knowledge base. 
 
+
+TODO
+- [ ] explain about how to improve cognitive ability to take more responsibility.
+- [ ] write about similarity of marketing and education, the abuse of attention
+- [ ] effective autonomy: principle alignment, proposal oriented instead of group oriented, decentralized management with no opportunistic barrier, normalize peer review power. 
+
+
 All supports are recognized!
 
 1. `star` this project as pledge to support
