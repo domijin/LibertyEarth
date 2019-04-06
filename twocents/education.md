@@ -1,7 +1,10 @@
 
 ## Note from [AI + Human - Santa Clara University](http://lwcal.scu.edu/icje/#!view/event/event_id/79477)
 
-`need to be curated`
+TODO
+- [ ] write about adapative learning
+- [ ] explain the challenge (not enough data/content/interaction) and propose the feasible approach (42 case study)
+- [ ] value alignment of AI, and how can it be done (principle oriented), cite back about automony
 
 
 Panelist
