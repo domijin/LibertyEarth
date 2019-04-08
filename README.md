@@ -66,6 +66,11 @@ The Dilemma: Our adaptability (learning ability) are biologically limited, as
 - limited computing（information processing).
 
 
+Alternative explanation: Cognitive Bandwidth issue, nailed by César Hidalgo with [Augmented Democracy](https://www.peopledemocracy.com/).
+
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/CyGWML6cI_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>](https://youtu.be/CyGWML6cI_k)
+
+
 Direct Consequences: Information Overload that results in divergent cognitive abilities:
 
 - bias from selection effect over the process of learning; 
@@ -313,7 +318,7 @@ My peek to one of the [loosely-pictured future](http://future.domij.info).
 
 ## Alliance
 
-- César Hidalgo, Prof. in MIT on Collective Learning, [augmented democracy to solve cognitive bandwidth](https://www.youtube.com/watch?v=CyGWML6cI_k&feature=share).
+- César Hidalgo, Prof. in MIT on Collective Learning, [Augmented Democracy](https://www.peopledemocracy.com/) to solve [cognitive bandwidth](https://www.youtube.com/watch?v=CyGWML6cI_k&feature=share).
 - [Great American Debate](https://www.greatamericandebate.org/), Internet Governance and collective debate map on Climate Change, lead by [Jamie Joyce](https://twitter.com/JustJamieJoyce).
 - [Canonical Debate Lab](https://canonicaldebatelab.com/), affiliation of Great American Debate and [Democracy Earth](https://democracy.earth/).
 - [Effective Altruism](http://effective-altruism.com), currently an elite group with huge cognitive barrier to scale.
