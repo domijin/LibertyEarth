@@ -44,7 +44,10 @@ The towel of Babel
 
 Game, 42
 
-
+Relations between AI and Human capability
+- competitive
+- complementary
+    
 Difficulty of Personalize AI tutor
 - Content 
 - Compartmental, narrow AI
