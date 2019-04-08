@@ -21,7 +21,7 @@ TOC
 - [Manifesto](manifesto.md): Brief message of the vision.
 - [Principles Guideline](principles.md)
 - [Toy Model of Organization](#execution.md)
-- [Alliance](#Alliance): different paths towards the same directions
+- [Alliance](#Alliance): different paths towards the similar direction
 
 
 ## Why This Vision
