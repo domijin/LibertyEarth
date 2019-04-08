@@ -21,6 +21,7 @@ TOC
 - [Manifesto](manifesto.md): Brief message of the vision.
 - [Principles Guideline](principles.md)
 - [Toy Model of Organization](#execution.md)
+- [Alliance](#Alliance): different paths towards the same directions
 
 
 ## Why This Vision
@@ -308,4 +309,12 @@ My peek to one of the [loosely-pictured future](http://future.domij.info).
         - Index Resources and ongoing Projects
         - Build WiKi
         - A Website
+
+
+## Alliance
+
+- César Hidalgo, Prof. in MIT on Collective Learning, [augmented democracy to solve cognitive bandwidth](https://www.youtube.com/watch?v=CyGWML6cI_k&feature=share).
+- [Great American Debate](https://www.greatamericandebate.org/), Internet Governance and collective debate map on Climate Change, lead by [Jamie Joyce](https://twitter.com/JustJamieJoyce).
+- [Canonical Debate Lab](https://canonicaldebatelab.com/), affiliation of Great American Debate and [Democracy Earth](https://democracy.earth/).
+- [Effective Altruism](http://effective-altruism.com), currently an elite group with huge cognitive barrier to scale.
 
