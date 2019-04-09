@@ -83,7 +83,7 @@ In together with the `institutional barriers` detailed below, causes
 - personal `anxiety` of `career lock-in` due to solidified skill and experience with new tools and methods flushing in;
 - `sociological segregation` due to difficulties to trace the source of divergence:
     - `fragmentation of Internet` that intensifies alienation;
-    - expediting `economic segregation` that raises concerns;
+    - expediting `economic rising inequality` that raises concerns;
     - democracy failure that discouraged voters with abusive attention occupation of marketing campaign and cognitive cost to identify fake news (bad faith);
     - collaboration difficulty to resolve global challenges without __effective communication__ with __comprehensive information__ and __constructive organization__ practical in larger scale. 
 
