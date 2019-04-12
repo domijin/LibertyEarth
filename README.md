@@ -8,8 +8,8 @@
 TOC
 
 - Motivation
-    - [Why This Vision](#why-this-vision)
     - [Situation: Challenges We Face](#challenges-we-face)
+    - [Why This Vision](#why-this-vision)
 - Hypothesis
     - [Reason: The Root Cause](#the-root-cause)
     - [Solution: What Do We Do](#what-do-we-do)
@@ -24,12 +24,21 @@ TOC
 - [Toy Model of Organization](#execution.md)
 - [Alliance](#Alliance): different paths towards the similar direction
 
+## Motivation
 
-## Why This Vision
+### Challenges We Face
 
-__One Story__
+`one liner`: Humans are approaching the cognitive limitation in resolving conflicts of interest to land larger-scale mutual-beneficial collaboration. 
 
-In my opinion, it is `how people communicate their thoughts and how people are organized to deliver` the biggest asset of human civilization, from academic research to corporate governance.
+![](images/challenges.png)
+
+__What's The Challenge Keeps You Up In The Night?__
+
+### Why This Vision
+
+__One Reason__
+
+It is `how people communicate their thoughts and how people are organized to deliver` the biggest asset of human civilization, from academic research to corporate governance.
 
 Technologies like `electricity`, `machineries`, `Internet`, `artificial general intelligence` and `blockchain` are the byproducts (tools). Organizations like `communities`, `corporations` and `governments` are the forms (means). 
 
@@ -41,23 +50,15 @@ More about Why: [Initiatives on Sociological Practice](http://dongming.uta.cloud
 __What's Your Story To Keep You Up In The Morning?__
 
 
-
-## Idealistic Level
-
-### Challenges We Face
-
-![](images/challenges.png)
-
-__What's The Challenge Keeps You Up In The Night?__
-
+## Hypothesis
 
 ### The Root Cause
 
 __Some Thoughts__
 
-Fundamental Trend: Larger educated populations are more frequently generating denser information through communication. 
+The coordination challenge in governance: Larger educated population is more frequently generating denser information through communications. 
 
-- more information: larger networks with bigger population connected;
+- more information: bigger networks with larger population connected;
 - faster generation: better connectivity with devices having more efficient human-computer interface;
 - higher density: more intense competition drive deeper domain specified skills and experience through higher education. 
 
@@ -319,6 +320,8 @@ My peek to one of the [loosely-pictured future](http://future.domij.info).
 
 
 ## Alliance
+
+> Disclaimer, it is towards the same direction that we see them as alliance. There is no actual affiliation unless specified. 
 
 - César Hidalgo, Prof. in MIT on Collective Learning, [Augmented Democracy](https://www.peopledemocracy.com/) to solve [cognitive bandwidth](https://www.youtube.com/watch?v=CyGWML6cI_k&feature=share).
 - [Great American Debate](https://www.greatamericandebate.org/), Internet Governance and collective debate map on Climate Change, lead by [Jamie Joyce](https://twitter.com/JustJamieJoyce).
