@@ -20,8 +20,8 @@ TOC
         - [education approach](#education-approach) 
         - [business approach](#business-approach)
 - [Manifesto](manifesto.md): Brief message of the vision.
-- [Principles Guideline](principles.md)
-- [Toy Model of Organization](#execution.md)
+- [Principles Guideline](Principles.md)
+- [Toy Model of Organization](Execution.md)
 - [Alliance](#Alliance): different paths towards the similar direction
 
 ## Motivation
@@ -202,7 +202,7 @@ All supports are recognized!
 
 Remember, remember, the principles to be a member. 
 
-A brief view of [__Principles in Construction__](#Principles.md)
+A brief view of [__Principles in Construction__](Principles.md)
 
 - Autonomy
     - Social Contracts
@@ -230,7 +230,7 @@ A brief view of [__Principles in Construction__](#Principles.md)
 
 Adaptive Education
 
-- Ideology with Popular Science: [The plot](#sci-fi.md) to build Sci-Fi stories
+- Ideology with Popular Science: [The plot](sci-fi.md) to build Sci-Fi stories
 - Cognitive ability: [42](42.us.org), case study about gamification on effective learning.
 
 
