@@ -2,17 +2,18 @@
 
 ### __The Vision: Technically Empower People to Collaborate Better__
 
-> It is very preliminary at the moment. I'm constantly detailing out and advocating for help. All questions or edits are welcome!
+> preliminary
 
 
 TOC
 
-- Motivation: [Why This Vision](#why-this-vision)
-- Idealistic Level: cracking the egg
+- Motivation
+    - [Why This Vision](#why-this-vision)
     - [Situation: Challenges We Face](#challenges-we-face)
+- Hypothesis
     - [Reason: The Root Cause](#the-root-cause)
     - [Solution: What Do We Do](#what-do-we-do)
-- Practical level: making the pie _To Be Edited_
+- Approaches
     - [Market (progressive goals)](#first-step)
     - Product (technology road map), [tech R&D](images/R&D.png)
     - Execution Plan: sustainability and feasibility
@@ -26,18 +27,19 @@ TOC
 
 ## Why This Vision
 
-__Domi's Story__
+__One Story__
 
-In my humble opinion, it is `how people communicate their thoughts and how people are organized to deliver` the biggest asset of human civilization. 
+In my opinion, it is `how people communicate their thoughts and how people are organized to deliver` the biggest asset of human civilization, from academic research to corporate governance.
 
-Technologies like `artificial general intelligence` and `blockchain` are the byproducts (tools). Organizations like `corporations` and `governments` are the forms (means). 
+Technologies like `electricity`, `machineries`, `Internet`, `artificial general intelligence` and `blockchain` are the byproducts (tools). Organizations like `communities`, `corporations` and `governments` are the forms (means). 
 
-It is how everyone is valued and matched, to take ownership to develop, under aligned interest and agreed principles, that matters more. 
+It is how everyone is valued and matched, to take ownership to develop, under aligned interest and agreed principles, that delivers more. Academic research is the most successful example with its open access and credible reference. 
 
 More about Why: [Initiatives on Sociological Practice](http://dongming.uta.cloud/initiatives-on-sociological-practice.html)
 
 
 __What's Your Story To Keep You Up In The Morning?__
+
 
 
 ## Idealistic Level
@@ -51,7 +53,7 @@ __What's The Challenge Keeps You Up In The Night?__
 
 ### The Root Cause
 
-__Domi's Thoughts__
+__Some Thoughts__
 
 Fundamental Trend: Larger educated populations are more frequently generating denser information through communication. 
 
@@ -105,7 +107,7 @@ To fill the gap of cognitive abilty and information asymmetry caused by such `in
 ## What Do We Do
 
 
-__Domi's Plan__
+__One Plan__
 
 > This part is still under reconstruction: 1. bottom-up way to demonstrate how it can be done; 2. top-down way to demonstrate why I think so. Both are illuminated in the mind note map. 
 
