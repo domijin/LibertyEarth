@@ -230,6 +230,13 @@ A brief view of [__Principles in Construction__](Principles.md)
 
 Adaptive Education
 
+Education is one of the largest societal challenges for both basic functioning in a society and to gain important new skills to be able to contribute back. It needs to be addressed for both youth and continuing education and learning for all in the rapidly advancing world.
+- Democratizing education:
+	Education material can be seen as specialized format of knowledge for easy understanding and learning.
+	Wikipedia has been quite successful in creating a common store of knowledge which is community created, updated, and monitored. Many open source projects are sucessful using similar organization.
+	Similar techniques could be used to create a common source of education material which can be iteratively expanded and by increasing the ease of sharing, editing, and refining educational material.
+- Personalized Education:
+	Personalized Education recognizes the failings of industrial teaching methods and tries to target and adapt educational material, and techniques to individual students. Traditionally, this has been accomplished through highly trained teachers with small groups or self/group driven learning methods. Technology can partially be used now to advance this by increasing the reach of teachers in terms of beurocatic efficiency, and bridging physical distance divides. Advanced AI can be developed in order to automatically track, determine optimal teaching methods, and actually teach in a way uniquely specialized to the individual. Open source education material will be a great building block, and collaborative space to both develop educational AI as well as an great way for it to codevelop better/new material with people and other AIs.
 - Ideology with Popular Science: [The plot](sci-fi.md) to build Sci-Fi stories
 - Cognitive ability: [42](42.us.org), case study about gamification on effective learning.
 
