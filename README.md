@@ -103,7 +103,7 @@ The economic and sociological segregations are then rationalized with [Darwinism
 
 Any minority faces [inequality bargaining power](https://en.wikipedia.org/wiki/Inequality_of_bargaining_power) due to the information asymmetry caused by `institutional barriers`.
 
-To fill the gap of cognitive abilty and information asymmetry caused by such `institutional barriers`, we need to re-confirm the [root cause](#the-root-cause) and find [radical solutions](#what-do-we-do). 
+To fill the gap of cognitive ability and information asymmetry caused by such `institutional barriers`, we need to re-confirm the [root cause](#the-root-cause) and find [radical solutions](#what-do-we-do). 
 
 ## What Do We Do
 
