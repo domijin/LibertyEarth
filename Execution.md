@@ -1,6 +1,6 @@
 ## Initial Design of Execution
 
-A toy model to crowd-form a collaborative team before tools and methodologies are developped. 
+A toy model to crowd-form a collaborative team before tools and methodologies are developed.
 
 
 - General Interest
@@ -11,7 +11,7 @@ A toy model to crowd-form a collaborative team before tools and methodologies ar
             - meeting
             - agenda
         - IM
-            - discussion suppliment
+            - discussion supplement
             - small group meeting progress tracking
         - resource directing
             - wiki
@@ -48,7 +48,7 @@ A toy model to crowd-form a collaborative team before tools and methodologies ar
             - credibility
 
 
-### A spice about the economic scence
+### A spice about the economic scene
 
 This is not my first priority to solve but it is important. This is only a spice about how I think might be the best interest to align the community to grow as individuals grow. Again it's a toy model open to improve. (All numbers are not justified yet.)
 
@@ -62,7 +62,7 @@ What's special?
 - Institutional design to eliminate manager role for equality, while remaining the efficiency. 
 - The community grows as each individual grows. The best way to grow is keeping everyone on the same page, and involved in decision making.
 - Distribution of shares will be reflected by the amount of contribution and decisions will be justified by the amount of shares. 
-- Captical dividend is capped unless capital becomes part of the community and the contribution is recognized by community members. 
+- Capital dividend is capped unless capital becomes part of the community and the contribution is recognized by community members.
 - Universal basic income will give new members a piece of mind to learn and catch up.
 
 

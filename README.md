@@ -258,7 +258,7 @@ In the big picture, guided by the Principle:
 - A community with trusted like-minds.
 - A stage to liberate your talents.
 
-In the short term, detailed in [Execution Plan](Execution.md#A-spice-about-the-economic-scence):
+In the short term, detailed in [Execution Plan](Execution.md#A-spice-about-the-economic-scene):
 
 - Peace of mind with universal basic income.
 - A share of equity matched to your added value.
