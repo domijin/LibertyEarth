@@ -2,7 +2,7 @@
 
 The Vision: Technically Empower People to Collaborate Better
 
-In [principles](principles.md) we align!
+In [principles](Principles.md) we align!
 
 ## Collaborative Society
 
